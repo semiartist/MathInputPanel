@@ -1,0 +1,1 @@
+主函数是HMMcalculation，输入从recognizer得出的序列
